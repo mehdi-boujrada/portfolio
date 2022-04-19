@@ -5,7 +5,6 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
   DiPython,
   DiGit,
   DiPostgresql,
@@ -13,11 +12,7 @@ import {
   DiDjango,
   DiLaravel,
 } from "react-icons/di";
-import {
-  SiPytorch,
-  SiFirebase,
-  SiNextdotjs,
-} from "react-icons/si";
+
 
 function Techstack() {
   return (
